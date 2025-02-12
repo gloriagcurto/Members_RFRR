@@ -1,0 +1,105 @@
+Ville	Département	Région	Statut	Statut_abrev	Discipline	Discipline secondaire
+Annecy	Haute-Savoie	Auvergne-Rhône-Alpes	Ingénieur de Recherche 	IR	Physique	Data Science
+Aubervilliers	Seine-Saint-Denis	Île-de-France	Ingénieur d'Études 	IE	Géographie	
+Aubière	Puy-de-Dôme	Auvergne-Rhône-Alpes	Professeur des Universités	PU	Informatique	Simulations stochastiques pour la Physique
+Aubière	Puy-de-Dôme	Auvergne-Rhône-Alpes	Doctorant 	Doctorant	Informatique	Machine Learning
+Aubière	Puy-de-Dôme	Auvergne-Rhône-Alpes	Doctorant 	Doctorant	Informatique	Reproductibilité
+Aubière	Puy-de-Dôme	Auvergne-Rhône-Alpes	Ingénieur de Recherche 	IR	Bioinformatique 	Physiologie moéculaire 
+Avignon	Vaucluse	Provence-Alpes-Cote d'Azur	Chargé de Recherche 	CR 	Écologie 	Écotoxicologie 
+Bordeaux	Gironde	Nouvelle-Aquitaine	Ingénieur d'Études	IE	Statistique	Anthropologie biologique
+Bordeaux	Gironde	Nouvelle-Aquitaine	Maître de Conférences 	MdC	Médicament	
+Bordeaux	Gironde	Nouvelle-Aquitaine	Ingénieur de Recherche 	IR	Informatique	
+Bordeaux	Gironde	Nouvelle-Aquitaine	Ingénieur d'Études 	IE	Psychologie	
+Champs-sur-Marne	Seine-et-Marne	Île-de-France	Chargé de Recherche	CR 	Physique	Mécanique des chocs 
+Corte	Haute-Corse	Corse	Maître de Conférences 	MdC	Informatique	Aide a la décision 
+Créteil 	Val-de-Marne	Île-de-France	Ingénieur de Recherche 	IR	Bioinformatique 	Oncologie
+Grenoble	Isère	Auvergne-Rhône-Alpes	Ingénieur de Recherche	IR	Mathématiques	Calcul scientifique
+Grenoble	Isère	Auvergne-Rhône-Alpes	Postdoctorant	Postdoc	Physique	Géophysique
+Grenoble	Isère	Auvergne-Rhône-Alpes	Ingénieur d'Études	IE	Mathématiques	
+Grenoble	Isère	Auvergne-Rhône-Alpes	Directeur de Recherche 	DR	Informatique	  
+Grenoble	Isère	Auvergne-Rhône-Alpes	Ingénieur de Recherche 	IR	Ingénierie	Mathématiques appliques
+Grenoble	Isère	Auvergne-Rhône-Alpes	Maître de Conférences 	MdC	Informatique	
+Grenoble	Isère	Auvergne-Rhône-Alpes	Maître de Conférences 	MdC	Ingénierie	Science de la durabilité
+Grenoble	Isère	Auvergne-Rhône-Alpes	Ingénieur de Recherche 	IR	Mathématiques	
+Grenoble	Isère	Auvergne-Rhône-Alpes	Ingénieur de Recherche 	IR	Mathématiques	
+Grenoble	Isère	Auvergne-Rhône-Alpes	Ingénieur de Recherche 	IR	Informatique	
+Guadeloupe 	Guadeloupe 	Guadeloupe 	Chargé de Recherche 	CR 	Biologie	Biologie des populations et écologie 
+Jouy-en-Josas 	Yvelines	Île-de-France	Ingénieur de Recherche 	IR	Biostatistique	
+Lille	Nord	Hauts-de-France	Bioinformaticien 	IR	Bioinformatique 	Cancer
+Lille	Nord	Hauts-de-France	Professeur des Universités	PU	Informatique	Environnements Informatiques pour l'Apprentissage Humain
+Lille	Nord	Hauts-de-France	Ingénieur de Recherche 	IR	Biostatistique	Biologie
+Lille	Nord	Hauts-de-France	Ingénieur d'Études 	IE	Sociologie 	Ingénierie  d'enquête en sciences sociales
+Limoges	Haute-Vienne	Nouvelle-Aquitaine	Ingénieur de Recherche 	IR	Informatique	
+Lyon	Rhône	Auvergne-Rhône-Alpes	Ingénieur de Recherche	IR	Informatique	Biologie des populations et écologie
+Lyon	Rhône	Auvergne-Rhône-Alpes	ATER 	ATER	Informatique	Sciences du langage
+Lyon	Rhône	Auvergne-Rhône-Alpes	Directeur de Recherche 	DR	Physique	Biomécanique
+Lyon	Rhône	Auvergne-Rhône-Alpes	Chargé de Recherche 	CR 	Neurosciences 	Éthique de la Recherche animale
+Lyon	Rhône	Auvergne-Rhône-Alpes	Chargé de Recherche	CR 	Neurosciences 	
+Lyon	Rhône	Auvergne-Rhône-Alpes	Chargé de Recherche 	CR 	Neurosciences 	
+Lyon	Rhône	Auvergne-Rhône-Alpes	Ingénieur de Recherche	IR	Neurosciences 	NeuroImagerie humaine
+Lyon	Rhône	Auvergne-Rhône-Alpes	Chargé de mission	CM	Données	Ambassadrice de Software Heritage
+Lyon	Rhône	Auvergne-Rhône-Alpes	Ingénieur d'Études	IE	Information	Science ouverte
+Lyon	Rhône	Auvergne-Rhône-Alpes	Ingénieur de Recherche 	IR	Information	Science ouverte
+Lyon	Rhône	Auvergne-Rhône-Alpes	Ingénieur de Recherche 	IR	Mathématiques	Imagerie médicale
+Lyon	Rhône	Auvergne-Rhône-Alpes	Ingénieur de Recherche 	IR	Bioinformatique 	Génomique du cancer 
+Lyon	Rhône	Auvergne-Rhône-Alpes	Responsable pole accompagnement données de la Recherche et documentation 	Data	Information	Science ouverte et accompagnement a la gestion des données de recherche
+Lyon	Rhône	Auvergne-Rhône-Alpes	Ingénieur de Recherche 	IR	Biostatistique	Développement logiciel
+Marseille	Bouches-du-Rhône	Provence-Alpes-Cote d'Azur	Ingénieur d'Études	IE	Information	
+Montpellier	Hérault	Occitanie	Ingénieur de Recherche	IR	Bioinformatique 	
+Montpellier	Hérault	Occitanie	Ingénieur d'Études	IE	Biostatistique	Gestionnaire des données
+Montpellier	Hérault	Occitanie	Ingénieur de Recherche 	IR	Informatique	  
+Montpellier	Hérault	Occitanie	Ingénieur d'Études	IE	Statistique	économie appliquée
+Montpellier	Hérault	Occitanie	Chargé de Recherche 	CR 	Biologie	Genomique
+Nancy	Meurthe-et-Moselle 	Grand-Est	Professeur des Universités	PU	Histoire des Sciences	
+Nantes	Loire-Atlantique,	Pays-de-la-Loire	Ingénieur de Recherche 	IR	Physique	Planétologie
+Nantes	Loire-Atlantique,	Pays-de-la-Loire	Doctorant 	Doctorant	Epidemiologie	Santé publique
+Narbonne	Aude	Occitanie	Ingénieur d'Études 	IE	Ingénierie	 RDO, Qualité
+Nogent-sur-Marne 	Val-de-Marne	Île-de-France	Ingénieur de Recherche 	IR	Économie	Modélisation
+Noisy-le-Grand 	Seine-Saint-Denis	Île-de-France	Ingénieur de Recherche 	IR	Informatique	Techniques et innovations
+Orléans	Loiret	Centre-Val-de-Loire	Maître de Conférences 	MdC	Mathématiques	Modélisation
+Orléans	Loiret	Centre-Val-de-Loire	Chargé de Recherche 	CR 	Physique	Biochimie
+Orléans	Loiret	Centre-Val-de-Loire	Ingénieur de Recherche 	IR	Biologie	Biochimie et biologie moléculaire 
+Paris	Paris	Île-de-France	Chargé de Projet	CP	Biologie	Biologie du développement
+Paris	Paris	Île-de-France	Ingénieur de Recherche	IR	Géographie	Cartographie
+Paris	Paris	Île-de-France	Ingénieur de Recherche	IR	Bioinformatique 	Biomédical
+Paris	Paris	Île-de-France	Maître de Conférences 	MdC	Biologie	Omics
+Paris	Paris	Île-de-France	Ingénieur de Recherche	IR	Physique	Électronique numérique
+Paris	Paris	Île-de-France	Biostatisticien	BS	Biostatistique	Santé publique
+Paris	Paris	Île-de-France	Ingénieur de Recherche 	IR	Bioinformatique 	Phylogénies virales
+Paris	Paris	Île-de-France	Adjoint au coordinateur national de la science ouverte	CP	Science Ouverte	
+Paris	Paris	Île-de-France	Ingénieur de Recherche 	IR	Politique	Traitement de données 
+Paris	Paris	Île-de-France	Ingénieur de Recherche 	IR	Bioinformatique 	Transcriptomique
+Paris	Paris	Île-de-France	Directeur de Recherche 	DR	Physique	Astrophysique
+Paris	Paris	Île-de-France	Ingénieur d'Études	IE	Physique	Milieux denses et matériaux 
+Paris	Paris	Île-de-France	Data librarian 	Data	Information	Science ouverte
+Paris	Paris	Île-de-France	Ingénieur de Recherche 	IR	Science Ouverte	Gestion des données de la Recherche
+Paris	Paris	Île-de-France	Ingénieur de Recherche 	IR	Bioinformatique 	
+Paris	Paris	Île-de-France	Directeur	Directeur	Biologie	Recherche preanalytique
+Paris	Paris	Île-de-France	Ingénieur de Recherche 	IR	Science Ouverte	
+Paris	Paris	Île-de-France	Ingénieur d'Études 	IE	Science Ouverte	
+Paris	Paris	Île-de-France	Ingénieur de Recherche 	IR	Informatique	
+Petit-Bourg	Guadeloupe 	Guadeloupe 	Chargé de Recherche 	CR 	Biostatistique	
+Ploufragan	Côtes-d'Armor	Bretagne	Chargé de Projet	CP	Biologie	Génétique
+Reading	Reading	Royaume Uni	Professeur des Universités	PU	Statistique	 Open and Reproducible Research 
+Rennes	Ille-et-Vilaine	Bretagne	Ingénieur de Recherche 	IR	Biologie	Biologie des populations et écologie 
+Rennes	Ille-et-Vilaine	Bretagne	Professeur des Universités	PU	Bioinformatique 	
+Rennes	Ille-et-Vilaine	Bretagne	Chargé de Recherche 	CR 	Informatique	Neuroinformatique 
+Rennes	Ille-et-Vilaine	Bretagne	Professeur des Universités	PU	Médecine 	Thérapeutique   
+Rouen	Seine-Maritime	Normandie	Ingénieur de Recherche	IR	Informatique	Géographie
+Rouen	Seine-Maritime	Normandie	Ingénieur de Recherche	IR	Géographie	Épistémologiste
+Saclay	Essonne	Île-de-France	Chercheur HDR	CR 	Mathématiques	Traitement d'images et vidéo
+Saclay	Essonne	Île-de-France	Chargé de Recherche 	CR 	Neurosciences 	
+Saclay	Essonne	Île-de-France	Chargé de Recherche 	CR 	Informatique	Bioinformatique 
+Saclay	Essonne	Île-de-France	Chargé de Recherche 	CR 	Bioinformatique 	
+Stockholm	Stockholm	Suède	Postdoctorant	Postdoc	Neurosciences	Physiologie
+Strasbourg 	Bas-Rhin	Grand-Est	Ingénieur de Recherche	IR	Informatique	Physique des particules
+Strasbourg 	Bas-Rhin	Grand-Est	Ingénieur de Recherche 	IR	Science Ouverte	Ecoinfo 
+Tarbes	Hautes-Pyrénées	Occitanie	Professeur des Universités	PU	Ingénierie	Génie mécanique
+Toulouse	Haute-Garonne	Occitanie	Ingénieur d'Études	IE	Statistique	
+Toulouse	Haute-Garonne	Occitanie	Ingénieur de Recherche 	IR	Biostatistique	Informatique médicale et technologies de communication
+Toulouse	Haute-Garonne	Occitanie	Maître de Conférences 	MdC	Informatique	
+Toulouse	Haute-Garonne	Occitanie	Chargé de Recherche 	CR 	Ingénierie	
+Toulouse	Haute-Garonne	Occitanie	Ingénieur d'Études 	IE	Informatique	
+Toulouse	Haute-Garonne	Occitanie	Ingénieur de Recherche	IR	Statistique	économie appliquée
+Villetaneuse	Seine-Saint-Denis	Île-de-France	Ingénieur de Recherche 	IR	Informatique	
+Villetaneuse	Seine-Saint-Denis	Île-de-France	Professeur des Universités	PU	Informatique	
